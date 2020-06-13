@@ -1,0 +1,122 @@
+[
+ {
+   "Name": "Alex Russo",
+   "Account Number": 100101920111,
+   "Balance": 8176212,
+   "Branch": "Kothrud"
+ },
+ {
+   "Name": "Jane Austin",
+   "Account Number": 102911021234,
+   "Balance": 238723,
+   "Branch": "Karvenagar"
+ },
+ {
+   "Name": "Christian Siva",
+   "Account Number": 128813102145,
+   "Balance": 9812,
+   "Branch": "Pune Station"
+ },
+ {
+   "Name": "Andy Samberg",
+   "Account Number": 111112132367,
+   "Balance": 19872,
+   "Branch": "Yerwada"
+ },
+ {
+   "Name": "Steve Pinto",
+   "Account Number": 124432242332,
+   "Balance": 12313,
+   "Branch": "Shaniwarwada"
+ },
+ {
+   "Name": "Priya Kanpuri",
+   "Account Number": 121288321467,
+   "Balance": 234798,
+   "Branch": "Kothrud"
+ },
+ {
+   "Name": "Roshni Devi",
+   "Account Number": 283611546123,
+   "Balance": 498724,
+   "Branch": "Shanivarwada"
+ },
+ {
+   "Name": "Ajay Rawat",
+   "Account Number": 761217684578,
+   "Balance": 2323198,
+   "Branch": "Pune Station"
+ },
+ {
+   "Name": "Sanjay Patnaik",
+   "Account Number": 412124116134,
+   "Balance": 231212,
+   "Branch": "Shivanjinagar"
+ },
+ {
+   "Name": "Devi Pandey",
+   "Account Number": 125312635678,
+   "Balance": 238740,
+   "Branch": "Karvenagar"
+ },
+ {
+   "Name": "Vishnu Shrivastav",
+   "Account Number": 426262626233,
+   "Balance": 9827324,
+   "Branch": "Yerwada"
+ },
+ {
+   "Name": "Shristy Jain",
+   "Account Number": 352617482923,
+   "Balance": 24987,
+   "Branch": "Ravivarwada"
+ },
+ {
+   "Name": "Divya Parekh",
+   "Account Number": 219274516265,
+   "Balance": 291928,
+   "Branch": "Pune Station"
+ },
+ {
+   "Name": "Neeta Bhatt",
+   "Account Number": 192847251656,
+   "Balance": 8728,
+   "Branch": "Shivanjinagar"
+ },
+ {
+   "Name": "Aliyah Khan",
+   "Account Number": 182797452612,
+   "Balance": 812131,
+   "Branch": "Yerwada"
+ },
+ {
+   "Name": "Rahul Purohit",
+   "Account Number": 879461563233,
+   "Balance": 2189724,
+   "Branch": "Karvenagar"
+ },
+ {
+   "Name": "Kunal Khanna",
+   "Account Number": 324029374134,
+   "Balance": 87242,
+   "Branch": "Kothrud"
+ },
+ {
+   "Name": "Ahmed Khan",
+   "Account Number": 954818291745,
+   "Balance": 2287214,
+   "Branch": "Shanivarwada"
+ },
+ {
+   "Name": "Muneem Rehman",
+   "Account Number": 312183731345,
+   "Balance": 4873243,
+   "Branch": "Shivanjinagar"
+ },
+ {
+   "Name": "Krishna Pandit",
+   "Account Number": 228872398323,
+   "Balance": 4834324,
+   "Branch": "Pune Station"
+ }
+]
